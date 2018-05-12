@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32950
     wikipedia: http://fi.wikipedia.org/wiki/Aleksanteri_Rahkonen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37045#S--ski---2.-parviRunollisia-kokeita
 gutenberg_issued: '2011-08-12'
 gutenberg_type: Text
 identifiers:
